@@ -116,20 +116,20 @@ into **one Power BI dashboard** with slicers and filters.\
 
 ------------------------------------------------------------------------
 
-### **Week 6: Capstone Delivery & Final Feedback 📝** *(Assumed)*
+### **Week 6: Capstone Delivery & Final Feedback 📝** 
 
--   Consolidated all notebooks and dashboards.\
+-   Consolidated all notebooks and dashboards.
 -   Prepared **capstone presentation** including key findings, models,
-    and KPIs.\
+    and KPIs.
 -   Addressed mentor feedback and made **final refinements** to
     analysis.
 
 ------------------------------------------------------------------------
 
-### **Week 7: Final Submission & Reflection 🎓** *(Assumed)*
+### **Week 7: Final Submission & Reflection 🎓** 
 
--   Finalized **reports, dashboards, and code repository**.\
--   Delivered a **comprehensive presentation** to evaluators.\
+-   Finalized **reports, dashboards, and code repository**.
+-   Delivered a **comprehensive presentation** to evaluators.
 -   Documented **key learnings**, challenges faced, and **future
     improvements**.
 
