@@ -23,25 +23,25 @@ creation**.
 
 ### **Week 1: Foundations & Project Kick-off 🔑**
 
-**Highlights:**\
-- **Onboarding & Learning Resources:**\
+**Highlights:**
+- **Onboarding & Learning Resources:**
 - Understood **data analytics lifecycle**, types of data (structured,
-unstructured, semi-structured).\
+unstructured, semi-structured).
 - Completed IBM's beginner-level **analytics tutorials** for a solid
-foundation.\
+foundation.
 - **Tools & Setup:** Installed **Anaconda**, **Jupyter Notebook**,
-**Excel**, **Power BI**, and **Tableau Public**.\
-- **Data Cleaning & EDA:**\
+**Excel**, **Power BI**, and **Tableau Public**.
+- **Data Cleaning & EDA:**
 - Worked on **Titanic dataset**: handled missing values, dropped
-irrelevant columns.\
+irrelevant columns.
 - Used **Excel functions**, **Pandas**, and `pandas_profiling` for
-exploratory analysis.\
+exploratory analysis.
 - Visualized data with **Matplotlib** and **Seaborn** (heatmaps,
-histograms, boxplots).\
+histograms, boxplots).
 - **SQL Practice:** Learned **basic queries**, joins, aggregations on
-datasets using **Mode Analytics** and **HackerRank**.\
+datasets using **Mode Analytics** and **HackerRank**.
 - **Dashboard Prototype:** Created a **Power BI dashboard** with KPIs
-like **revenue, profit margin**, and **regional slicers**.\
+like **revenue, profit margin**, and **regional slicers**.
 - **Capstone Selection:** Finalized **Titanic analytics project** scope
 -- cleaning, analysis, dashboard, and reporting.
 
@@ -50,24 +50,24 @@ like **revenue, profit margin**, and **regional slicers**.\
 ### **Week 2: E-Commerce Customer Insights & Forecasting 🛒**
 
 **Focus:** Understanding customer behavior and predicting future
-trends.\
+trends.
 - **Dataset:** Modified **Olist e-commerce dataset**
-(`master_dataset.csv`).\
-- **Key Tasks:**\
-- **Customer Segmentation:**\
+(`master_dataset.csv`).
+- **Key Tasks:**
+- **Customer Segmentation:**
 - Applied **RFM Analysis** to score customers based on **Recency,
-Frequency, Monetary value**.\
-- Implemented **clustering algorithms**: MiniBatchKMeans, HDBSCAN.\
+Frequency, Monetary value**.
+- Implemented **clustering algorithms**: MiniBatchKMeans, HDBSCAN.
 - **Visualization:** Reduced dimensions with **PCA** and **t-SNE** for
-better representation.\
-- **Churn Prediction:**\
+better representation.
+- **Churn Prediction:**
 - Defined churn labels (inactivity \> 180 days).\
 - Engineered features like **tenure**, **order counts**, **review
-scores**.\
+scores**.
 - Trained **Logistic Regression**, **Random Forest**, **XGBoost**, and
-**Neural Networks**.\
+**Neural Networks**.
 - **Revenue Forecasting:** Used **Prophet**, **ARIMA**, and **Linear
-Regression** to predict sales trends.\
+Regression** to predict sales trends.
 - **Deliverables:** Interactive **Power BI dashboards** highlighting
 churn, revenue, and top-performing products.
 
@@ -77,12 +77,12 @@ churn, revenue, and top-performing products.
 
 **Goal:** Evaluate campaign success and customer responsiveness.\
 - **Tools:** Python (**Pandas**, **Seaborn**, **Matplotlib**, **SciPy**,
-**scikit-learn**).\
-- **Work Done:**\
-- Conducted **EDA** on campaign dataset.\
-- Created **customer personas** based on demographics and spending.\
+**scikit-learn**).
+- **Work Done:**
+- Conducted **EDA** on campaign dataset.
+- Created **customer personas** based on demographics and spending.
 - **A/B Testing:** Simulated campaign experiments and validated results
-with **t-tests, ANOVA, Chi-Square**.\
+with **t-tests, ANOVA, Chi-Square**.
 - **Insights:** Identified effective channels and recommended
 **data-driven marketing strategies**.
 
@@ -91,13 +91,13 @@ with **t-tests, ANOVA, Chi-Square**.\
 ### **Week 4: Customer Lifetime Value (CLTV) & Dashboarding 💡**
 
 **Objective:** Identify high-value customers and improve retention
-strategies.\
-- **Highlights:**\
+strategies.
+- **Highlights:**
 - Estimated **CLTV** using behavioral features like **frequency, spend,
-and tenure**.\
-- Enhanced **Power BI dashboards** with dynamic visualizations.\
+and tenure**.
+- Enhanced **Power BI dashboards** with dynamic visualizations.
 - Created **Plotly-based Python dashboards** for interactive
-exploration.\
+exploration.
 - Documented actionable insights for **marketing and sales teams**.
 
 ------------------------------------------------------------------------
@@ -105,13 +105,13 @@ exploration.\
 ### **Week 5: Model Optimization & Unified Dashboard ⚙️**
 
 **Focus:** Refining predictive models and consolidating insights.\
-- **Tasks Performed:**\
+- **Tasks Performed:**
 - **Hyperparameter Tuning:** Used **GridSearchCV** on Logistic
-Regression, XGBoost, and Neural Networks.\
+Regression, XGBoost, and Neural Networks.
 - **Feature Importance:** Implemented **SHAP** for model
-interpretability.\
+interpretability.
 - **Integrated Dashboard:** Combined churn, CLTV, and campaign analysis
-into **one Power BI dashboard** with slicers and filters.\
+into **one Power BI dashboard** with slicers and filters.
 - Exported **PDF and PPT reports** for stakeholders.
 
 ------------------------------------------------------------------------
