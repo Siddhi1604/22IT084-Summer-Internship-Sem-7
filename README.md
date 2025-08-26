@@ -75,7 +75,7 @@ churn, revenue, and top-performing products.
 
 ### **Week 3: Marketing Campaign Analytics & A/B Testing 📊**
 
-**Goal:** Evaluate campaign success and customer responsiveness.\
+**Goal:** Evaluate campaign success and customer responsiveness.
 - **Tools:** Python (**Pandas**, **Seaborn**, **Matplotlib**, **SciPy**,
 **scikit-learn**).
 - **Work Done:**
@@ -104,7 +104,7 @@ exploration.
 
 ### **Week 5: Model Optimization & Unified Dashboard ⚙️**
 
-**Focus:** Refining predictive models and consolidating insights.\
+**Focus:** Refining predictive models and consolidating insights.
 - **Tasks Performed:**
 - **Hyperparameter Tuning:** Used **GridSearchCV** on Logistic
 Regression, XGBoost, and Neural Networks.
@@ -138,16 +138,16 @@ into **one Power BI dashboard** with slicers and filters.
 ## 🛠 Tools & Skills Used
 
 -   **Languages & Libraries:** Python (**Pandas, NumPy, Matplotlib,
-    Seaborn, scikit-learn, XGBoost, Prophet, SHAP**), SQL.\
+    Seaborn, scikit-learn, XGBoost, Prophet, SHAP**), SQL.
 -   **Visualization Tools:** Power BI, Tableau Public, Plotly.\
 -   **Techniques:**
-    -   **Data Cleaning & Preprocessing**\
-    -   **EDA & Visualization**\
-    -   **Clustering & Segmentation**\
+    -   **Data Cleaning & Preprocessing**
+    -   **EDA & Visualization**
+    -   **Clustering & Segmentation**
     -   **Predictive Modeling** (Regression, Classification)\
-    -   **Forecasting** (Time-Series Models)\
-    -   **A/B Testing & Statistical Analysis**\
-    -   **Model Tuning & Explainability**\
+    -   **Forecasting** (Time-Series Models)
+    -   **A/B Testing & Statistical Analysis**
+    -   **Model Tuning & Explainability**
     -   **Dashboard Design & Reporting**
 
 ------------------------------------------------------------------------
@@ -155,10 +155,10 @@ into **one Power BI dashboard** with slicers and filters.
 ## 📈 Outcomes & Learning
 
 -   Built **end-to-end analytics pipeline** covering data ingestion to
-    insights.\
+    insights.
 -   Learned **business-oriented problem solving** with datasets like
-    Titanic and Olist.\
+    Titanic and Olist.
 -   Strengthened **presentation and visualization skills** through Power
-    BI/Tableau.\
+    BI/Tableau.
 -   Developed a **strong foundation in ML models, feature engineering,
     and interpretability tools**.
